@@ -1,7 +1,9 @@
-# Bez-Infinity-2.1
+# Bez-Infinity-2.2
 Licencja która zapobiega wysyłaniu twoich wiadomości na serwer infninity
 <br>
 Licencja znajduje się w pliku LICENSE
+<br>
+Jak chcesz żeby na twoje wiadomości była licencja Bez Infinity 2.2 to musisz w statusie na dsc napisać "Licencja BezInfinity 2.2"
 <br>
 Jak chcesz żeby na twoje wiadomości była licencja Bez Infinity 2.1 to musisz w statusie na dsc napisać "Licencja BezInfinity 2.1"
 <br>
