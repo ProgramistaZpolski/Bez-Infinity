@@ -1,4 +1,4 @@
-# Bez-Infinity-2.3
+# Bez-Infinity-3.0
 Licencja która zapobiega wysyłaniu twoich wiadomości na serwer infninity
 <br>
 Licencja znajduje się w pliku LICENSE
